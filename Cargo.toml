@@ -14,5 +14,9 @@ path = "src/guess-the-number.rs"
 name = "common-programming-concepts"
 path = "src/common-programming-concepts.rs"
 
+[[bin]]
+name = "structures"
+path = "src/structures.rs"
+
 [dependencies]
 rand = "^0.7.3"
