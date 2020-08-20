@@ -22,5 +22,9 @@ path = "src/structures.rs"
 name = "enums_pattern_matching"
 path = "src/enums_pattern_matching.rs"
 
+[lib]
+name = "modules"
+path = "src/modules.rs"
+
 [dependencies]
 rand = "^0.7.3"
