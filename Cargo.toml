@@ -18,5 +18,9 @@ path = "src/common-programming-concepts.rs"
 name = "structures"
 path = "src/structures.rs"
 
+[[bin]]
+name = "enums_pattern_matching"
+path = "src/enums_pattern_matching.rs"
+
 [dependencies]
 rand = "^0.7.3"
