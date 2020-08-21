@@ -26,6 +26,10 @@ path = "src/enums_pattern_matching.rs"
 name = "common_collections_vectors"
 path = "src/common_collections_vectors.rs"
 
+[[bin]]
+name = "common_collections_strings"
+path = "src/common_collections_strings.rs"
+
 [lib]
 name = "modules"
 path = "src/modules.rs"
