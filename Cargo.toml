@@ -30,6 +30,10 @@ path = "src/common_collections_vectors.rs"
 name = "common_collections_strings"
 path = "src/common_collections_strings.rs"
 
+[[bin]]
+name = "common_collections_hashmap"
+path = "src/common_collections_hashmap.rs"
+
 [lib]
 name = "modules"
 path = "src/modules.rs"
