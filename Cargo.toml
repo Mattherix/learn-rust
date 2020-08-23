@@ -34,6 +34,10 @@ path = "src/common_collections_strings.rs"
 name = "common_collections_hashmap"
 path = "src/common_collections_hashmap.rs"
 
+[[bin]]
+name = "error_handling"
+path = "src/error_handling.rs"
+
 [lib]
 name = "modules"
 path = "src/modules.rs"
